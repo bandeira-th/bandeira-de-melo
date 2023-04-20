@@ -2,7 +2,7 @@
 ## Hey, how are you doing?! 👋
 
 
-- 🔭 I've been working on personal projects, check them out! 💙
+- 🔭 Almost finishing bootcamp. I'm learning a lot with weekly diffent projects, check them out! 💙
 - 🌱 Studying Tests with Jest
 - 📫 How to reach me: thiagooce@gmail.com
 - 😄 Pronouns: he/him/his

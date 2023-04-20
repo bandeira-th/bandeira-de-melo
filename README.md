@@ -3,7 +3,7 @@
 
 
 - 🔭 I've been working on personal projects, check them out! 💙
-- 🌱 Studying Typescript
+- 🌱 Studying Tests with Jest
 - 📫 How to reach me: thiagooce@gmail.com
 - 😄 Pronouns: he/him/his
 

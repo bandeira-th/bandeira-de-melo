@@ -27,8 +27,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="Bandeira-de-melo-Jest" height="70" width="80" />
               
           
-  <img align="right" alt="Bandeira de melo pic" height="100" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D35AQEza17CtQcing/profile-framedphoto-shrink_200_200/0/1652551759916?e=1654520400&v=beta&t=HcAgszsaIAcwzqahgvo_gciKzGRp_7FCb1EkF3Y9Z9Y">
-</div>
+
 
           
           

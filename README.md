@@ -1,9 +1,7 @@
 
 ## Hey, how are you doing?! 👋
 
-
-- 🔭 Almost finishing bootcamp. I'm learning a lot with weekly diffent projects, check them out! 💙
-- 🌱 Studying Tests with Jest
+- 🌱 Currently learning NestJS.
 - 📫 How to reach me: thiagooce@gmail.com
 - 😄 Pronouns: he/him/his
 

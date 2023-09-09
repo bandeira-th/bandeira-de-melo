@@ -16,8 +16,7 @@
   <div style="display: inline_block"><br>
  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
  
-    <img align="center" alt="Bandeira-de-melo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="Bandeira-de-melo-Jest" height="70" width="80" />
+
               
           
 

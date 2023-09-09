@@ -4,6 +4,8 @@
 - 🌱 Currently learning NestJS.
 - 📫 How to reach me: thiagooce@gmail.com
 - 😄 Pronouns: he/him/his
+- 🔎 Interests: Tech, World History, Music and Neuroscience.
+- 🪣 Bucket List: Learn German, a low level language, Go to Ressurection Fest.
 
 <div align="center">
   <a href="https://github.com/bandeira-de-melo">

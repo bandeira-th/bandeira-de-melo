@@ -13,7 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <div style="display: inline_block"><br>
  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
  
 
@@ -24,9 +23,7 @@
           
           
             
-          
-  
-</div>
+
   
   <div> 
     <a href="https://www.linkedin.com/in/thiago-bandeira-de-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

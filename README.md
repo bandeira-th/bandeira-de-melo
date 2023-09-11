@@ -18,6 +18,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo&layout=donut&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+
 ### Back-End: 
 <br />
 
@@ -39,7 +40,10 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-          
+
+<br />
+
+### Moere About / Contact:
             
 
   

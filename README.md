@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/bandeira-de-melo">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandeira-de-melo)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandeira-de-melo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)

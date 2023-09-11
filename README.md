@@ -13,6 +13,8 @@
 - 🔎 Interests: Tech, world history and music.
 - 🪣 Bucket List: learn German, a low level language, go to Ressurection Fest.
 
+</br>
+
 <div align="center">
   <a href="https://github.com/bandeira-de-melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo&layout=compact&langs_count=7&theme=tokyonight"/>

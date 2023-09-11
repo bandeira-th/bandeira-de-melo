@@ -17,7 +17,8 @@
 
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bandeira-de-melo)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)

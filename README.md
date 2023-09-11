@@ -7,11 +7,11 @@
 
 #### If you want to talk with me, know more about my journey and the projects I've been involved in and/or also talk about yours don't hesitate to reach me out. 😉
 
-- 🌱 Currently learning NestJS and Java on my free time.
-- 📫 How to reach me: thiagooce@gmail.com
-- 😄 Pronouns: he/him/his
-- 🔎 Interests: Tech, world history and music.
-- 🪣 Bucket List: learn German, a low level language, go to Ressurection Fest.
+- #### 🌱 Currently learning NestJS and Java on my free time.
+- #### 📧 How to reach me: thiagooce@gmail.com
+- #### 😄 Pronouns: he/him/his
+- #### 🔎 Interests: Tech, world history and music.
+- #### 🪣 Bucket List: learn German, a low level language, go to Ressurection Fest.
 
 </br>
 

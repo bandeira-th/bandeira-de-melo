@@ -17,7 +17,7 @@
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandeira-de-melo&layout=donut&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)

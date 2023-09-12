@@ -1,5 +1,5 @@
 
-## Hey, how are you doing?! 👋
+# Hey, how are you doing?! 👋
 
 ### While working on projects using 3D modeling softwares during several years I had a few contacts with programming, but it was only during the unfortunate pandemic that I had the time to really go deeper on coding and it was a point of no return. Programming and all the possibilities that unfolded before me just made me more and more pationate about it. Since then I've worked with some languages like Python and Java, but past couple of years most of my coding has been made in the JS echosystem from vanilla Javascript to NestJS. 
 

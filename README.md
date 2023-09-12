@@ -1,17 +1,17 @@
 
 ## Hey, how are you doing?! 👋
 
-#### While working on projects using 3D modeling softwares during several years I had a few contacts with programming, but it was only during the unfortunate pandemic that I had the time to really go deeper on coding and it was a point of no return. Programming and all the possibilities that unfolded before me just made me more and more pationate about it. Since then I've worked with some languages like Python and Java, but past couple of years most of my coding has been made in the JS echosystem from vanilla Javascript to NestJS. 
+### While working on projects using 3D modeling softwares during several years I had a few contacts with programming, but it was only during the unfortunate pandemic that I had the time to really go deeper on coding and it was a point of no return. Programming and all the possibilities that unfolded before me just made me more and more pationate about it. Since then I've worked with some languages like Python and Java, but past couple of years most of my coding has been made in the JS echosystem from vanilla Javascript to NestJS. 
 
-#### Working with and studing tech is not only exciting on it's own but has been shaping my perspective on how I look at other things in the world as well. I can wait to look at everything I'll have been learned and build in some years from now. 
+### Working with and studing tech is not only exciting on it's own but has been shaping my perspective on how I look at other things in the world as well. I can wait to look at everything I'll have been learned and build in some years from now. 
 
-#### If you want to talk with me, know more about my journey and the projects I've been involved in and/or also talk about yours don't hesitate to reach me out. 😉
+### If you want to talk with me, know more about my journey and the projects I've been involved in and/or also talk about yours don't hesitate to reach me out. 😉
 
-- #### 🌱 Currently learning NestJS and Java on my free time.
-- #### 📧 How to reach me: thiagooce@gmail.com
-- #### 😄 Pronouns: he/him/his
-- #### 🔎 Interests: Tech, world history and music.
-- #### 🪣 Bucket List: learn German, a low level language, go to Ressurection Fest.
+- ### 🌱 Currently learning NestJS and Java on my free time.
+- ### 📧 How to reach me: thiagooce@gmail.com
+- ### 😄 Pronouns: he/him/his
+- ### 🔎 Interests: Tech, world history and music.
+- ### 🪣 Bucket List: learn German, a low level language, go to Ressurection Fest.
 
 </br>
 

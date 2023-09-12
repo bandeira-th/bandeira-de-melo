@@ -43,7 +43,7 @@
 
 <br />
 
-### Moere About / Contact:
+### More About / Contact:
             
 
   
